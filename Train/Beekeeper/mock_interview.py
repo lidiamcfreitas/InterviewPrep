@@ -3,6 +3,8 @@ import json
 formula_tree = json.load(open("/Users/Turing/Dropbox/Git/InterviewPrep/Train/Beekeeper/input.json", "r+"))
 
 
+# 1st solution
+
 def evaluate(formula):
     if not isinstance(formula, dict):
         return formula
@@ -13,6 +15,8 @@ def evaluate(formula):
             if k == '*':
                 return evaluate(v[0]) * evaluate(v[1])
 
+
+# 2nd solution
 
 def f(k):
     if k == '+':

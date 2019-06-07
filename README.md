@@ -1,2 +1,0 @@
-# InterviewPrep
-Interview preparation repository

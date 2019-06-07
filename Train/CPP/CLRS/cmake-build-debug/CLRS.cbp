@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CLRS"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="merge_sort">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/merge_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge_sort"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="merge_sort/fast">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/merge_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 merge_sort/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="selection_sort">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/selection_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 selection_sort"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="selection_sort/fast">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/selection_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 selection_sort/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="binary_sum">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/binary_sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 binary_sum"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="binary_sum/fast">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/binary_sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 binary_sum/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="insertion_sort">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/insertion_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertion_sort"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="insertion_sort/fast">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/insertion_sort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 insertion_sort/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="linear_search">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/linear_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 linear_search"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="linear_search/fast">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/linear_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 linear_search/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j4 -f &quot;/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/binary_sum.cpp">
+			<Option target="binary_sum"/>
+		</Unit>
+		<Unit filename="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/insertion_sort.cpp">
+			<Option target="insertion_sort"/>
+		</Unit>
+		<Unit filename="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/linear_search.cpp">
+			<Option target="linear_search"/>
+		</Unit>
+		<Unit filename="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/merge_sort.cpp">
+			<Option target="merge_sort"/>
+		</Unit>
+		<Unit filename="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/selection_sort.cpp">
+			<Option target="selection_sort"/>
+		</Unit>
+		<Unit filename="/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

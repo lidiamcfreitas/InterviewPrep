@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/cmake-build-debug

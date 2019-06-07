@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/binary_sum.cpp
+string
+-
+iostream
+-
+

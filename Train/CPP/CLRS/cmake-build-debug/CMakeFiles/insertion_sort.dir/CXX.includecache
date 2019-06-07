@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Turing/Dropbox/Git/InterviewPrep/Train/CPP/CLRS/insertion_sort.cpp
+vector
+-
+iostream
+-
+
